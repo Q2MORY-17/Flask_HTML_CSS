@@ -25,20 +25,27 @@ See source code commented out section for bootstrap formatting
 **FLASK** find help on all types of subjects
 
 
-[<button>click here for site</button>](https://flask.palletsprojects.com/en/1.1.x/)</button><hr>
+[<button>click here for site</button>](https://flask.palletsprojects.com/en/1.1.x/)<hr>
 **SASS** a way to introduce variables to CSS style sheet
 
-[<button>click here for site</button>](https://sass-lang.com/)</button><hr>
+[<button>click here for site</button>](https://sass-lang.com/)<hr>
 
 **HTML** introduction + examples
 
-[<button>click here for site</button>](https://www.w3schools.com/html/html_intro.asp)</button><hr>
+[<button>click here for site</button>](https://www.w3schools.com/html/html_intro.asp)<hr>
 
 **CSS** and HTML documentaion
 
-[<button>click here for site</button>](https://developer.mozilla.org/en-US/docs/Learn/CSS)</button><hr>
+[<button>click here for site</button>](https://developer.mozilla.org/en-US/docs/Learn/CSS)<hr>
 **JINJA 2** sort of a complement to FLASK
 
-[<button>click here for site</button>](https://jinja.palletsprojects.com/en/2.11.x/)</button><hr>
+[<button>click here for site</button>](https://jinja.palletsprojects.com/en/2.11.x/)<hr>
 
+**GRAFANA** for visual interface
+
+[<button>click here for site</button>](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/)<hr>
+
+**INFLUXDB** where to store the data.
+
+[<button>click here for site</button>](https://www.influxdata.com/)<hr>
 <!---<a href="#" class="button">STEVE</a>--->
